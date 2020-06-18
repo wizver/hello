@@ -15,6 +15,7 @@ public class HelloWorld {
 		HelloWorld hw = new HelloWorld();
 		
 		hw.sayHello();
+		hw.sayHello("wizver");
 	}
 
 }
